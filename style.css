@@ -1,0 +1,58 @@
+:root {
+    --base-color: #FAF3E1;
+    --main-block-color: #629FAD;
+}
+
+.welkom1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+    background-color: var(--main-block-color);
+    height: 270px;
+    width: 600px;
+    padding: 40px;
+    border-radius: 25px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+}
+
+.ranks1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.ranks2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.ranks3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.ranks4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.body {
+    background-color: var(--base-color)
+}
+
+.pfp-winter-2 {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+
+    position: fixed;
+    top: -25%;
+    left: 35%;
+}
